@@ -1,0 +1,7 @@
+{
+  "DPDebug": {
+    "prefix": "dp",
+    "body": ["println!(\"{:#?}\"$0"],
+    "description": "Debug an object"
+  }
+}
